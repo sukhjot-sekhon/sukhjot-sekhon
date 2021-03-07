@@ -5,9 +5,4 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sukhjot.sekhon@ucalgary.ca)
 
 
-<a href="https://github.com/sukhjot-sekhon">
-<img align="center" alt="Sukhjot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sukhjot-sekhon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
-<a href="https://github.com/sukhjot-sekhon">
-  <img align="center" src="https://github-readme-stats.sukhjot-sekhon.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
