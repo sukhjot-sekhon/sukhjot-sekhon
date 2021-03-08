@@ -7,10 +7,14 @@
 </p>
 
 <p align='center'>
-  [![Linkedin](https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)]
-  [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sukhjot.sekhon@ucalgary.ca)]
+  <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
+    <img src="https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sukhjot.sekhon@ucalgary.ca">
+    <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-  ![Sukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhjot-sekhon&show_icons=true&theme=radical)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sukhjot-sekhon&show_icons=true&theme=radical" width="450"></a>
 </p>
