@@ -6,7 +6,7 @@
   A software developer from Canada.
 </p>
 
-<p align='center'>
+<p align='center' width='450px'>
   <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
     <img src="https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
