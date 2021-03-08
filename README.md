@@ -9,10 +9,10 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
     <img src="https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sukhjot.sekhon@ucalgary.ca">
     <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 <p align='center'>
