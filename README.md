@@ -25,8 +25,12 @@
     <a href="mailto:sukhjot.sekhon@ucalgary.ca">
       <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
     </a>
-  </p>
+    <br>
     Hey, I'm Sukh, a Software Developer from 🍁Canada🍁.
+  </p>
+  - abc
+  - fdjslkf
+  - sjdklfjs
   
     * fdjklsfj
     * sdjkl;fjsd;
