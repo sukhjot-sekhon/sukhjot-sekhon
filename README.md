@@ -26,7 +26,7 @@
   </a>
 </p>
 <p align='left'>
-Hey there, I'm Sukh, a Software Developer from 🍁Canada🍁.
+  <ul>Hey there, I'm Sukh, a Software Developer from 🍁Canada🍁.</ul>
   <ul>
   <li>I am passionate about developing high-quality software that solves interesting problems.</li>
   <li>I thrive when taking on big challenges alongside smart, ambitious people.</li>
