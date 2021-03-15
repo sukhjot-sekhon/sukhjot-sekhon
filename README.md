@@ -17,7 +17,7 @@
 
 
 <img align="left" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
-<p align='center' width='450px'>
+<p align='left' width='450px'>
   <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
     <img src="https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
