@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
   </a>
   <a href="mailto:sukhjot.sekhon@ucalgary.ca">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=abc&logoColor=white" />
   </a>
 </p>
 
