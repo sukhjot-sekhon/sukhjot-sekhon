@@ -24,11 +24,7 @@
   <a href="mailto:sukhjot.sekhon@ucalgary.ca">
     <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
   </a>
-  
 </p>
-
-[![linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
-[![gmail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](sukhjot.sekhon@ucalgary.ca)
 Hey there, I'm Sukh, a Software Developer from Canada.
 - I am passionate about developing high-quality software that solves interesting problems.
 - I thrive when taking on big challenges alongside smart, ambitious people.
