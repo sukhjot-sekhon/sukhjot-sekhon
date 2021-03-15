@@ -1,3 +1,4 @@
+## About Me
 <div>
   <img align="left" style="margin-right:15px;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
   <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
@@ -16,7 +17,13 @@
   <br>  
   I will be completing my <b>Computer Science</b> degree at the <b>University of Calgary</b> in <b>Dec 2021</b>.
 </div>
+<br><br><br>
 
+
+## Skills
+Some skills here
+
+## Statistics
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sukhjot-sekhon&show_icons=true&theme=radical" width="450"></a>
 </p>
