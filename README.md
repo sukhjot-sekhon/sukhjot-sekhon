@@ -1,36 +1,24 @@
-## About Me
-<img align="left" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
+## Connect
+<img align="left" style="margin-right: 25px;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
-[![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sukhjot.sekhon@ucalgary.ca)  
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhjot-sekhon)  
+<div style="margin-top: 30px;">
 
-<br><br><br>
-
-<div>
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sukhjot.sekhon@ucalgary.ca">
-    <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
-  </a>
-  <p>
-    Hey, I'm <b>Sukh</b>. I am currently working as a <b>Cloud Software Developer Intern</b> in 🍁<b>Canada</b>🍁.
-    <br>
-    I will be completing my <b>Computer Science</b> degree at the <b>University of Calgary</b> in <b>Dec 2021</b>.
-    <br><br>
-    I am <em>passionate</em> about developing <em>high-quality software</em> that solves interesting problems.
-    <br>
-    I <em>thrive</em> when taking on big challenges alongside smart, <em>abitious</em> people.
-    <br>
-
-  </p>
+  [![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
 </div>
-<br><br><br>
+<div style="margin-top: 5px;">
 
+  [![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhjot.sekhon@ucalgary.ca)  
+</div>
+<div style="margin-top: 5px;">
 
+  [![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhjot-sekhon)   
+</div>
+
+## About Me
+* Hey, I'm **Sukh**. I am currently working as a **Cloud Software Developer Intern** in 🍁**Canada**🍁.  
+* I will be completing my Computer Science** degree at the **University of Calgary** in **Dec 2021**.  
+* I am *passionate* about developing *high-quality software* that solves interesting problems.  
+* I *thrive* when taking on big challenges alongside smart, *abitious* people.
 
 ## Technologies
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
