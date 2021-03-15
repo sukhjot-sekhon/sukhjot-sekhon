@@ -27,14 +27,9 @@
     </a>
     <br>
   </p>
-- Hey, I'm <b>Sukh</b>, a <b>Software Developer</b> from 🍁<b>Canada</b>🍁.
-- I am passionate about developing high-quality software that solves interesting problems.
-- 
-- 
-  <ul style="margin-left:125px">
-    <li></li>
-    <li>I thrive when taking on big challenges alongside smart, ambitious people.</li>
-    <li>I will be completing my Computer Science degree at the University of Calgary in Dec 2021.</li>
-  </ul>
-  <p>
+
+  * Hey, I'm <b>Sukh</b>, a <b>Software Developer</b> from 🍁<b>Canada</b>🍁.
+    - I am passionate about developing high-quality software that solves interesting problems.
+  * I thrive when taking on big challenges alongside smart, ambitious people.
+  * I will be completing my Computer Science degree at the University of Calgary in Dec 2021.
 </div>
