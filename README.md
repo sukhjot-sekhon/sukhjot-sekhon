@@ -1,15 +1,12 @@
 <div>
   <img align="left" style="margin-right:15px;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
-  <p id="ABC" style="margin-bottom:0; padding:0px;">
-    <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
-      <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:sukhjot.sekhon@ucalgary.ca">
-      <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
-    </a>
-    <br>
-  </p>
+  <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sukhjot.sekhon@ucalgary.ca">
+    <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
+  </a>
   
   Hey, I'm <b>Sukh</b>, and am currently working as a <b>Cloud Software Developer Intern</b> in 🍁<b>Canada</b>🍁<br>
   I am <em>passionate</em> about developing <em>high-quality software</em> that solves interesting problems.<br>
