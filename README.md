@@ -1,22 +1,15 @@
 ## Connect
-<img align="left" style="margin-right: 25px;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
+<img align="left" style="margin-right: 25px;" height="135px" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
 
-<div style="margin-top: 35px;">
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
 
-  [![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
-</div>
-<div style="margin-top: 5px;">
+[![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhjot.sekhon@ucalgary.ca)  
 
-  [![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhjot.sekhon@ucalgary.ca)  
-</div>
-<div style="margin-top: 5px;">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhjot-sekhon)   
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhjot-sekhon)   
 
 ## About Me
 * Hey, I'm **Sukh**. I am currently working as a **Cloud Software Developer Intern** in 🍁**Canada**🍁.  
-* I will be completing my Computer Science** degree at the **University of Calgary** in **Dec 2021**.  
+* I will be completing my **Computer Science** degree at the **University of Calgary** in **Dec 2021**.  
 * I am *passionate* about developing *high-quality software* that solves interesting problems.  
 * I *thrive* when taking on big challenges alongside smart, *abitious* people.
 
