@@ -17,7 +17,7 @@
 
 
 <img align="left" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
-<p align='left' width='450px'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
     <img src="https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,10 @@
     <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+<p align='left'>
 Hey there, I'm Sukh, a Software Developer from Canada.
-- I am passionate about developing high-quality software that solves interesting problems.
-- I thrive when taking on big challenges alongside smart, ambitious people.
-
+  <ul>
+  <li>I am passionate about developing high-quality software that solves interesting problems.</li>
+  <li>I thrive when taking on big challenges alongside smart, ambitious people.</li>
+</ul>
+<p>
