@@ -26,24 +26,13 @@
       <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
     </a>
     <br>
-    Hey, I'm Sukh, a Software Developer from 🍁Canada🍁.
   </p>
-
-  * dfd
-  * dsjlkfs
-  * sdjlfkjsdf
-  
-  - abc
-  - fdjslkf
-  - sjdklfjs
-  
-    * fdjklsfj
-    * sdjkl;fjsd;
-    - fjkldsa
-    - fdjklsfj
-    - sdjkl;fjsd;
+- Hey, I'm <b>Sukh</b>, a <b>Software Developer</b> from 🍁<b>Canada</b>🍁.
+- I am passionate about developing high-quality software that solves interesting problems.
+- 
+- 
   <ul style="margin-left:125px">
-    <li>I am passionate about developing high-quality software that solves interesting problems.</li>
+    <li></li>
     <li>I thrive when taking on big challenges alongside smart, ambitious people.</li>
     <li>I will be completing my Computer Science degree at the University of Calgary in Dec 2021.</li>
   </ul>
