@@ -20,6 +20,5 @@
 
 [![linkedin](https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
 [![gmail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](sukhjot.sekhon@ucalgary.ca)
-
-Passionate about developing high-quality software that solves interesting problems.
-I thrive when taking on big challenges alongside smart, ambitious people.
+<p>Passionate about developing high-quality software that solves interesting problems.<br>
+I thrive when taking on big challenges alongside smart, ambitious people.<p>
