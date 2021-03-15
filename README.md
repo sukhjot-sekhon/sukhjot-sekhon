@@ -1,6 +1,6 @@
 <div>
-  <img align="left" style="margin-right:15px" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
-  <p style="margin:0px">
+  <img align="left" style="margin:0,15px,0,0; padding:0;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
+  <p style="margin:0px; padding:0px;">
     <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
       <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" />
     </a>
@@ -11,7 +11,7 @@
     <br>
   </p>
   
-  Hey, I'm <b>Sukh</b>, a <b>Software Developer</b> from 🍁<b>Canada</b>🍁, currently working as a Cloud Software Developer Intern.<br>
+  Hey, I'm <b>Sukh</b>, and am currently working as a <b>Cloud Software Developer Intern</b> in 🍁<b>Canada</b>🍁<br>
   I am <em>passionate</em> about developing <em>high-quality software</em> that solves interesting problems.<br>
   I <em>thrive</em> when taking on big challenges alongside smart, <em>abitious</em> people.<br>
   I will be completing my <b>Computer Science</b> degree at the <b>University of Calgary</b> in <b>Dec 2021</b>.
