@@ -17,7 +17,7 @@
 
 <div>
   <img align="left" style="margin-right:15px" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
-  <p>
+  <p margin-left:0px>
     <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
       <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" />
     </a>
@@ -28,6 +28,11 @@
     <br>
     Hey, I'm Sukh, a Software Developer from 🍁Canada🍁.
   </p>
+
+  * dfd
+  * dsjlkfs
+  * sdjlfkjsdf
+  
   - abc
   - fdjslkf
   - sjdklfjs
