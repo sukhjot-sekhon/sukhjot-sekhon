@@ -1,5 +1,6 @@
 ## About Me
 <img align="left" style="margin-right:15px;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)
 [![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sukhjot.sekhon@ucalgary.ca)
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhjot-sekhon)
