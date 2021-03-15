@@ -31,7 +31,7 @@
   <ul style="margin-left:125px">
     <li>I am passionate about developing high-quality software that solves interesting problems.</li>
     <li>I thrive when taking on big challenges alongside smart, ambitious people.</li>
-    <li></li>I will be completing my Computer Science degree at the University of Calgary in Dec 2021.</li>
+    <li>I will be completing my Computer Science degree at the University of Calgary in Dec 2021.</li>
   </ul>
   <p>
 </div>
