@@ -17,6 +17,15 @@
 
 
 <img align="left" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
+<p align='center' width='450px'>
+  <a href="https://www.linkedin.com/in/sukhjot-sekhon/">
+    <img src="https://img.shields.io/badge/-Sukh-black?style=for-the-badge&logo=Linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sukhjot.sekhon@ucalgary.ca">
+    <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" />
+  </a>
+  
+</p>
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
 [![gmail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](sukhjot.sekhon@ucalgary.ca)
