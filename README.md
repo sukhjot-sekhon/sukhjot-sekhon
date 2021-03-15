@@ -13,8 +13,8 @@
   
   Hey, I'm <b>Sukh</b>, a <b>Software Developer</b> from 🍁<b>Canada</b>🍁.<br>
   I am <em>passionate</em> about developing <em>high-quality software</em> that solves interesting problems.<br>
-  I thrive when taking on big challenges alongside smart, ambitious people.<br>
-  I will be completing my Computer Science degree at the University of Calgary in Dec 2021.
+  I <em>thrive</em> when taking on big challenges alongside smart, <em>abitious</em> people.<br>
+  I will be completing my <b>Computer Science</b> degree at the <b>University of Calgary</b> in <b>Dec 2021</b>.
 </div>
 
 <p align='left'>
