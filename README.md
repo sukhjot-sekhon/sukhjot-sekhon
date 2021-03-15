@@ -1,7 +1,7 @@
 ## Connect
 <img align="left" style="margin-right: 25px;" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 35px;">
 
   [![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukhjot-sekhon/)  
 </div>
